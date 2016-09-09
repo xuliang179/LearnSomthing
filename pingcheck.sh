@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #check the hosts alive or not
 #version 1.0
